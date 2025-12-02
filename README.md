@@ -20,5 +20,10 @@ Currently studying
 
 <b>My GitHub Stats</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haste04)](https://github.com/anuraghazra/github-readme-stats)
+<b>My GitHub Stats</b>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haste04&layout=compact&theme=tokyonight" />
+</p>
+
 
