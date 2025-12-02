@@ -20,6 +20,8 @@ Currently studying
 
 <b>My GitHub Stats</b>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haste04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haste04&show_icons=true&locale=en&layout=compact" alt="haste04" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haste04&show_icons=true&locale=en" alt="haste04" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haste04&" alt="haste04" /></p>
