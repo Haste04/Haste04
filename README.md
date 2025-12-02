@@ -20,7 +20,8 @@ Currently studying
 
 <b>My GitHub Stats</b>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haste04&layout=compact&theme=tokyonight" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haste04&show_icons=true&locale=en&layout=compact" alt="haste04" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haste04&show_icons=true&locale=en" alt="haste04" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haste04&" alt="haste04" /></p>
