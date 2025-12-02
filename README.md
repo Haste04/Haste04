@@ -20,4 +20,5 @@ Currently studying
 
 <b>My GitHub Stats</b>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Haste04&theme=default&show_icons=true&hide_border=true&layout=compact
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haste04)](https://github.com/anuraghazra/github-readme-stats)
+
