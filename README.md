@@ -20,4 +20,4 @@ Currently studying
 
 <b>My GitHub Stats</b>
 
-<p align="left"> <a href = http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude} </a></p>
+<p align="left"> <a href = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}" </a></p>
