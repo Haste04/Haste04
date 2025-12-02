@@ -20,7 +20,7 @@ Currently studying
 
 ## GitHub Stats:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Haste04&theme=dracula&hide_border=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Haste04&theme=dracula&hide_border=true" />
 </p>
 
 
